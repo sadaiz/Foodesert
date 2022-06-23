@@ -7,7 +7,13 @@ June 22, 2022
 
 Time to Read: 8 minutes
 
-  Do you recall a time in your life when you didn’t have a car? If so, do you believe that it was much more difficult to use public transportation to get your food? When looking into food desserts there is an undeniable connection to it and public transportation. There are many reasons why it can be hard to get healthy food when you don’t have a vehicle. Problems such as long routes, small number of grocery stores, and fear of crime are some of many valid reasons why people find it difficult to get resources. Mapping these patterns in low income communities can help conceptualize the challenges and interventions that can be made.  
+
+
+![image](https://user-images.githubusercontent.com/108047450/175227632-f55e09c8-352f-4a3e-998a-e4cc93f356a8.gif)
+Source: Anja Slibar- The 19th
+
+  Do you recall a time in your life when you didn’t have a car? If so, did you ever have to pick between foods because you could not carry both home? Was taking the bus helpful or was it tedious? When looking into food desserts there is an undeniable connection to it and public transportation. There are many reasons why it can be hard to get healthy food when you don’t have a vehicle. Problems such as long routes, small number of grocery stores, and fear of crime are some of many valid reasons why people find it difficult to get resources. Mapping these patterns in low income communities can help conceptualize the challenges and interventions that can be made.  
+
 
 # In what communities are food deserts? 
 
@@ -26,7 +32,7 @@ Figure 1: Food desert in Madison Wisconsin which takes public transportation int
 
 
 
-![image](https://user-images.githubusercontent.com/108047450/175222485-5b169953-f072-497e-88ee-89f0fb0fc12d.jpeg)
+![image](https://user-images.githubusercontent.com/108047450/175228411-2d419887-f70e-4f8c-986f-0788c13750ef.jpeg)
 
 Figure 2: Low Income and Low Access areas in the United States in 2019. Source: United States Deparment of Agriculture 
 
@@ -42,6 +48,8 @@ Fast Food in Richmond, California. Source: WordPress.com
 
 
   By learning from these projects, the interventions I want to make go beyond simply mapping out concrete data, I want to tell a story. I want to incorporate how many people from these communities actually use the bus to ride to the grocery store. I will research whether the number of people ride the bus to get food has increased or decreased over the years. I will also use data regarding low income and low access areas and if new bus routes have made an impact in grocery store availability. I also will look at data in the detours buses take that can affect accessibility and also the crime rate of both where the grocery stores are and the homes of the people in these food deserts. Limitations I’ll have are finding the data in how many people ride for groceries and whether they feel comfortable riding with their groceries. The place I would like to study is Richmond, California. Food deserts in Richmond are an ongoing issue that needs to be addressed. I will be excluding the neighborhoods in Richmond who have food access, cars, and are middle to high income. I will not be including other environmental factors that are currently hurting the residents of Richmond as it might dilute the cause of the map. Previous efforts have tried to attract more stores to settle in Richmond, I will look into how the problem has become so chronic by viewing mobility and quality of foods in Richmond. 
+
+![image](https://user-images.githubusercontent.com/108047450/175229257-3597cadb-c0bf-4320-9ee1-77309fb9aa2c.gif)
 
 
 
