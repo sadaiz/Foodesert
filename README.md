@@ -13,8 +13,10 @@ Time to Read: 8 minutes
 
   Fortunately, this topic has been brought to light these recent years and there have been a number of mapping strategies that have been used. Many of these urban food deserts have commonalities such as being in areas where there are people of color, undereducated residents, and low income households. These factors are indicators to the prejudice many healthy food distributors have on where they choose to place their stores. I'll be exploring previous mapping projects that deal with food deserts and their impact on social justice for the community they’re mapping. I'll also be adding in my own take on mapping the link between food desserts and public transportation. The overall goal is to redefine food deserts by considering how public transportation plays a role in getting food on the table. 
 
+
  
 ![image](https://user-images.githubusercontent.com/108047450/175221955-2506de54-93de-42f7-b78e-1456dffbc23c.jpeg)
+
 Figure 1: Food desert in Madison Wisconsin which takes public transportation into consideration. Cartographer: Masrudy Omri
 
 
@@ -23,13 +25,16 @@ Figure 1: Food desert in Madison Wisconsin which takes public transportation int
    An interesting aspect of this project was that it showed the progression of how their map came to be. Places were highlighted to show an expansion and others become unhighlighted once new data came to play. What was included were the stores that were studied, and low income areas within and out of the food desserts. Route transfers were not included in this map because they were inconvenient to the commuter and it kept the travel time at a good pace. They also didn’t include restrictions that did not matter to their study such as rivers, highways, and forests. This map only focuses on disadvantaged communities to find the best routes for them to use. I believe that their scoring system to rate the quality of the supermarkets and transportation that was used was a great social justice intervention. It went beyond counting the number of markets around low income communities. It focused on the quality of the POP, if coupons and reduced prices were given, the amount of variety and availability, and how nutritional their food was. Having an extensive criteria for what a good market and bus service is goes beyond having them, it's about having quality versions of them. It emphasizes many social justice values like the right for everyone to have equal access to good health, equal opportunity to have markets close by, and equal economic opportunities. 
 
 
+
 ![image](https://user-images.githubusercontent.com/108047450/175222485-5b169953-f072-497e-88ee-89f0fb0fc12d.jpeg)
+
 Figure 2: Low Income and Low Access areas in the United States in 2019. Source: United States Deparment of Agriculture 
 
 
   Another more recent project is an interactive map to locate food deserts by the USDA. The guide is called the Food Access Research Atlas, and it provides indicators for census tracts to find food access by measuring market accessibility. Atlas maps can be created with data from 2015 and 2019 for food access. Their goal is to gather substantial information so that the maps are ultimately used for research or community planning.The map depicts where in the U.S. there are over 100 housing units in which they do not have a vehicle and their closest market is more than 0.5 miles away. When viewing the map, food deserts seem to be prevalent in rural areas and also inner cities.
   The map does not show how public transportation plays a part in having access to these places. This map can be used in a social justice intervention because it can be a tool to find patterns for more research on food desserts. Community planning can also benefit from viewing this map to see what places need the most attention when it comes to accessing food. This map emphasizes values of equity, opportunity, and health. The people who live within the borders of these food deserts are at risk of their health declining and extreme poverty. 
   
+
 
 ![image](https://user-images.githubusercontent.com/108047450/175223584-a3760625-9464-486b-8b2a-3ff6832420a3.jpeg)
 
