@@ -2,7 +2,9 @@ Social Justice
 # Busing it Out the Food Desert
 
 By Zurisadai Guzman
+
 June 22, 2022
+
 Time to Read: 8 minutes
 
   Do you recall a time in your life when you didn’t have a car? If so, do you believe that it was much more difficult to use public transportation to get your food? When looking into food desserts there is an undeniable connection to it and public transportation. There are many reasons why it can be hard to get healthy food when you don’t have a vehicle. Problems such as long routes, small number of grocery stores, and fear of crime are some of many valid reasons why people find it difficult to get resources. Mapping these patterns in low income communities can help conceptualize the challenges and interventions that can be made.  
@@ -30,6 +32,7 @@ Figure 2: Low Income and Low Access areas in the United States in 2019. Source: 
   
 
 ![image](https://user-images.githubusercontent.com/108047450/175223584-a3760625-9464-486b-8b2a-3ff6832420a3.jpeg)
+
 Fast Food in Richmond, California. Source: WordPress.com 
 
 
