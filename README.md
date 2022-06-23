@@ -66,7 +66,17 @@ Gundlach, Laura, et al. Food Deserts: Evaluating Grocery Stores and Bus Accessib
 
 USDA ERS - Food Access Research Atlas. https://www.ers.usda.gov/data-products/food-access-research-atlas/. Accessed 23 June 2022.
 
-![image](https://user-images.githubusercontent.com/108047450/175230993-209d0bf2-c365-47ba-a0b2-03aecebd1afd.gif)
+
+![image](https://user-images.githubusercontent.com/108047450/175233085-4686d022-7b33-4d24-b952-c6a98ee88e0e.gif)
+
+Source: School of Motion 
+
+     
+
+
+You've reached the end. I'd love to hear your thoughts, comments, and questions below. 
+
+
 
 
 
