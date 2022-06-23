@@ -49,7 +49,24 @@ Fast Food in Richmond, California. Source: WordPress.com
 
   By learning from these projects, the interventions I want to make go beyond simply mapping out concrete data, I want to tell a story. I want to incorporate how many people from these communities actually use the bus to ride to the grocery store. I will research whether the number of people ride the bus to get food has increased or decreased over the years. I will also use data regarding low income and low access areas and if new bus routes have made an impact in grocery store availability. I also will look at data in the detours buses take that can affect accessibility and also the crime rate of both where the grocery stores are and the homes of the people in these food deserts. Limitations I’ll have are finding the data in how many people ride for groceries and whether they feel comfortable riding with their groceries. The place I would like to study is Richmond, California. Food deserts in Richmond are an ongoing issue that needs to be addressed. I will be excluding the neighborhoods in Richmond who have food access, cars, and are middle to high income. I will not be including other environmental factors that are currently hurting the residents of Richmond as it might dilute the cause of the map. Previous efforts have tried to attract more stores to settle in Richmond, I will look into how the problem has become so chronic by viewing mobility and quality of foods in Richmond. 
 
-![image](https://user-images.githubusercontent.com/108047450/175229257-3597cadb-c0bf-4320-9ee1-77309fb9aa2c.gif)
+
+
+
+
+
+
+
+
+
+
+References Cited: 
+
+Gundlach, Laura, et al. Food Deserts: Evaluating Grocery Stores and Bus Accessibility Using GIS in Madison, Wisconsin. Dec. 2013. minds.wisconsin.edu, https://minds.wisconsin.edu/handle/1793/73421.
+
+
+USDA ERS - Food Access Research Atlas. https://www.ers.usda.gov/data-products/food-access-research-atlas/. Accessed 23 June 2022.
+
+![image](https://user-images.githubusercontent.com/108047450/175230993-209d0bf2-c365-47ba-a0b2-03aecebd1afd.gif)
 
 
 
